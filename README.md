@@ -1,6 +1,9 @@
 
 
 # E-Commerce Database
+**Contribution**
+1. Mohamed	Bashir - Role in the assignment Was to write SQL queries
+2. Francisca	Obiero - Role in the assignment Was to create the diagram
 
 E-Commerce Database is a relational database designed to manage products, inventory, variations, attributes, and more for an online store. It supports operations such as handling products, categories, colors, sizes, orders, and customer information, all while maintaining seamless data relationships.
 
