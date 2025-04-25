@@ -1,4 +1,5 @@
 
+
 # E-Commerce Database
 
 E-Commerce Database is a relational database designed to manage products, inventory, variations, attributes, and more for an online store. It supports operations such as handling products, categories, colors, sizes, orders, and customer information, all while maintaining seamless data relationships.
